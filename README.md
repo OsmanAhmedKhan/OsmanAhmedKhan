@@ -9,10 +9,10 @@ I am a developer who enjoys building applications, writing clean code, and worki
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing B.Tech in Computer Science & Engineering with a specialization in AI & ML[cite: 1, 2]
-- ☁️ Completed Executive PG Certification in Cloud Computing & DevOps from IIT Roorkee[cite: 1, 2]
-- 📜 Microsoft Certified: Azure Administrator Associate (AZ-104)[cite: 1]
-- 💻 Building full-stack web applications and data projects using Python, Java, JavaScript, React, and cloud platforms (AWS & Azure)[cite: 1]
+- 🎓 Pursuing B.Tech in Computer Science & Engineering with a specialization in AI & ML
+- ☁️ Completed Executive PG Certification in Cloud Computing & DevOps from IIT Roorkee
+- 📜 Microsoft Certified: Azure Administrator Associate (AZ-104)
+- 💻 Building full-stack web applications and data projects using Python, Java, JavaScript, React, and cloud platforms (AWS & Azure)
 - 🌐 **Live Portfolio:** [osmankhan.pages.dev](https://osmankhan.pages.dev)
 - 🚀 Want a crazy good website or want to collaborate? Let's discuss! Contact me at **osmanahkhan@gmail.com**
 
@@ -31,15 +31,15 @@ I am a developer who enjoys building applications, writing clean code, and worki
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsmanAhmedKhan&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Osman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OsmanAhmedKhan&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Osman's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanAhmedKhan&theme=nord&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=OsmanAhmedKhan&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanAhmedKhan&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
