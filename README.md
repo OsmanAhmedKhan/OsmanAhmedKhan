@@ -9,10 +9,10 @@ I am a developer who enjoys building applications, writing clean code, and worki
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing B.Tech in Computer Science & Engineering with a specialization in AI & ML[cite: 1, 2]
-- ☁️ Completed Executive PG Certification in Cloud Computing & DevOps from IIT Roorkee[cite: 1, 2]
-- 📜 Microsoft Certified: Azure Administrator Associate (AZ-104)[cite: 1]
-- 💻 Building full-stack web applications and data projects using Python, Java, JavaScript, React, and cloud platforms (AWS & Azure)[cite: 1]
+- 🎓 Pursuing B.Tech in Computer Science & Engineering with a specialization in AI & ML
+- ☁️ Completed Executive PG Certification in Cloud Computing & DevOps from IIT Roorkee
+- 📜 Microsoft Certified: Azure Administrator Associate (AZ-104)
+- 💻 Building full-stack web applications and data projects using Python, Java, JavaScript, React, and cloud platforms (AWS & Azure)
 - 🌐 **Live Portfolio:** [osmankhan.pages.dev](https://osmankhan.pages.dev)
 - 🚀 Want a crazy good website or want to collaborate? Let's discuss! Contact me at **osmanahkhan@gmail.com**
 
